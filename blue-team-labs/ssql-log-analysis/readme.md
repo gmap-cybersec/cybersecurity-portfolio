@@ -1,4 +1,5 @@
-**🛡️ SQL Security Investigation Lab** //
+**🛡️ SQL Security Investigation Lab** 
+---
 This project was part of a cybersecurity training lab focused on applying SQL queries to investigate suspicious login activity and retrieve employee data for IT updates.
 
 **📚 Description**
