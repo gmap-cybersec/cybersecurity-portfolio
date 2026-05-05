@@ -18,10 +18,10 @@ Para o arquivo oculto .project_x.txt, garantindo que apenas o usuário e o grupo
 chmod u=r,g=r,o= .project_x.txt
 Para o arquivo project_k.txt, removendo permissão de gravação do grupo e de outros:
 chmod g-w,o-w project_k.txt
--- 📂 Alterar permissões de diretórios:
+-  📂 Alterar permissões de diretórios:
 Para o diretório drafts, garantindo que somente o usuário possa acessar, ler, gravar e executar, bloqueando totalmente o grupo e outros:
 chmod 700 drafts
--- 📜 Resultados Obtidos
+- 📜 Resultados Obtidos
 Após aplicar os comandos, os arquivos e diretórios ficaram com as seguintes permissões:
 
 .project_x.txt → -r--r-----
