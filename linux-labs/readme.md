@@ -15,7 +15,7 @@ Durante este projeto, utilizei comandos do Linux para verificar, interpretar e m
 ls -la
 
 - 🔧 Alterar permissões de arquivos:
-- 
+
 Para o arquivo oculto .project_x.txt, garantindo que apenas o usuário e o grupo possam ler, sem permissão de escrita para ninguém: chmod u=r,g=r,o= .project_x.txt
 
 Para o arquivo project_k.txt, removendo permissão de gravação do grupo e de outros:
