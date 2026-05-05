@@ -38,9 +38,9 @@ The SQL queries used are located in the queries/ folder:
 **💡 Skills Demonstrated**
 ---
 
--SQL filtering with WHERE, AND, OR, NOT, LIKE
--Incident investigation through data analysis
--Applying cybersecurity logic to business datasets
+- SQL filtering with WHERE, AND, OR, NOT, LIKE
+- Incident investigation through data analysis
+- Applying cybersecurity logic to business datasets
 
 
 Feel free to fork or adapt this for your own portfolio. This is part of my journey toward a career in cybersecurity and data-driven security operations.
