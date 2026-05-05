@@ -11,24 +11,24 @@ As a cybersecurity analyst in a simulated enterprise environment, I used SQL que
 **🛠️ Objectives**
 ---
 
-*Detect failed login attempts after business hours.
-*Identify login activity on suspicious dates.
-*Exclude logins originating from Mexico.
-*Retrieve employees from the Marketing department in the East building.
-*List employees from Finance or Sales departments.
-*Filter employees who are not in the IT department.
+-Detect failed login attempts after business hours.
+-Identify login activity on suspicious dates.
+-Exclude logins originating from Mexico.
+-Retrieve employees from the Marketing department in the East building.
+-List employees from Finance or Sales departments.
+-Filter employees who are not in the IT department.
 
 **📄 SQL Queries**
 ---
 
 The SQL queries used are located in the queries/ folder:
 
-failed_logins_after_hours.sql
-logins_on_specific_dates.sql
-logins_outside_mexico.sql
-marketing_employees_east.sql
-finance_or_sales_employees.sql
-employees_not_in_IT.sql
+-failed_logins_after_hours.sql
+-logins_on_specific_dates.sql
+-logins_outside_mexico.sql
+-marketing_employees_east.sql
+-finance_or_sales_employees.sql
+-employees_not_in_IT.sql
 
 
 **🖼️ Screenshots**
@@ -38,7 +38,9 @@ employees_not_in_IT.sql
 **💡 Skills Demonstrated**
 ---
 
-SQL filtering with WHERE, AND, OR, NOT, LIKE
-Incident investigation through data analysis
-Applying cybersecurity logic to business datasets
+-SQL filtering with WHERE, AND, OR, NOT, LIKE
+-Incident investigation through data analysis
+-Applying cybersecurity logic to business datasets
+
+
 Feel free to fork or adapt this for your own portfolio. This is part of my journey toward a career in cybersecurity and data-driven security operations.
