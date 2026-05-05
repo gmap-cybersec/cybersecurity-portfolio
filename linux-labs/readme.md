@@ -42,7 +42,9 @@ Demonstrar habilidades práticas em:
 - Controle de acesso a arquivos e diretórios
 - Aplicação de boas práticas de segurança da informação
 - Operações em linha de comando (CLI)
+  
 **🏁 Conclusão**
--- 
+--
+
 Este projeto reforça conhecimentos fundamentais para atuação em funções como SOC Analyst, Cybersecurity Analyst, Blue Team, SysAdmin, Cloud Security, entre outras áreas de segurança da informação.
 
