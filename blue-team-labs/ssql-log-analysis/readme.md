@@ -23,12 +23,12 @@ As a cybersecurity analyst in a simulated enterprise environment, I used SQL que
 
 The SQL queries used are located in the queries/ folder:
 
--failed_logins_after_hours.sql
--logins_on_specific_dates.sql
--logins_outside_mexico.sql
--marketing_employees_east.sql
--finance_or_sales_employees.sql
--employees_not_in_IT.sql
+- failed_logins_after_hours.sql
+- logins_on_specific_dates.sql
+- logins_outside_mexico.sql
+- marketing_employees_east.sql
+- finance_or_sales_employees.sql
+- employees_not_in_IT.sql
 
 
 **🖼️ Screenshots**
