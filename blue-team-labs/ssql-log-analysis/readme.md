@@ -11,12 +11,12 @@ As a cybersecurity analyst in a simulated enterprise environment, I used SQL que
 **🛠️ Objectives**
 ---
 
-Detect failed login attempts after business hours.
-Identify login activity on suspicious dates.
-Exclude logins originating from Mexico.
-Retrieve employees from the Marketing department in the East building.
-List employees from Finance or Sales departments.
-Filter employees who are not in the IT department.
+*Detect failed login attempts after business hours.
+*Identify login activity on suspicious dates.
+*Exclude logins originating from Mexico.
+*Retrieve employees from the Marketing department in the East building.
+*List employees from Finance or Sales departments.
+*Filter employees who are not in the IT department.
 
 **📄 SQL Queries**
 ---
