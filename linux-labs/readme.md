@@ -27,6 +27,7 @@ Após aplicar os comandos, os arquivos e diretórios ficaram com as seguintes pe
 .project_x.txt → -r--r-----
 project_k.txt → -rw-r--r--
 drafts (diretório) → drwx------
+
 **📸 Capturas de Tela**
 --
 
